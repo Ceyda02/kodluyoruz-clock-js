@@ -1,0 +1,1 @@
+Patika dev'in katkılarıyla yapılan web patikası eğitiminde js saat ve tarih ödevi. Sayfanın gönderdiği mesaj ekranına isminizi yazdıktan sonra sizi mevcut saatin ve tarihin bulunduğu kodluyoruz temalı siteye yönlendirir.
